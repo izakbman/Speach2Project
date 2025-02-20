@@ -1,1 +1,1 @@
-# Speach2Project
+# Speech2Project
